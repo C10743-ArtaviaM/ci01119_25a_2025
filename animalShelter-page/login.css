@@ -1,0 +1,18 @@
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+
+}
+
+.btn-cancell {
+  background-color: red;
+  border: 1px;
+}
+
+#id-my-com {
+  hover::{
+    background-color: beige;
+  }
+}
