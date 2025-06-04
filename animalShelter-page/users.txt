@@ -1,0 +1,5 @@
+admin:password
+john:1234
+alice:qwerty
+mau_Artavia:mau231202
+joaquin_Doson:joaquin_ensambla
